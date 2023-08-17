@@ -1,7 +1,7 @@
 {
   "name": "pino-azure-applicationinsights",
   "version": "1.0.0",
-  "description": "",
+  "description": "A transport for pino that sends messages to Azure Application Insights",
   "main": "dist/index.js",
   "maintainers": [
     "laci.pfeifer@gmail.com"
@@ -10,7 +10,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "pino",
+    "pino-transport",
+    "azure",
+    "application",
+    "insights",
+    "logging"
+  ],
+  "files": [
+    "dist"
+  ],
   "author": "laci.pfeifer@gmail.com",
   "license": "ISC",
   "dependencies": {
