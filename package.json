@@ -1,6 +1,6 @@
 {
   "name": "pino-azure-applicationinsights",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A transport for pino that sends messages to Azure Application Insights",
   "main": "dist/index.js",
   "maintainers": [
